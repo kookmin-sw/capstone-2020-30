@@ -25,3 +25,8 @@
 React-Native 
 
 - 추후 추가하겠습니다.
+
+
+### 5. Abstract
+
+Order and pay in one sitting without waiting in line! This is a new order system order yam. Have you ever felt uncomfortable drinking coffee in the next class because you want to drink coffee but don't have time and the lines are long? Or are you worried you might lose your seat or get stolen when you take a seat at a cafe and go to the counter to order coffee? We want to solve all of these problems.
