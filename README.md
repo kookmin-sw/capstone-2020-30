@@ -1,5 +1,5 @@
 **팀페이지 주소** -> https://kookmin-sw.github.io/capstone-2020-30  
-**임시 앱 웹페이지** -> http://orderyam.com/
+  **임시 앱 웹페이지** -> http://orderyam.com/
 
 ### 1. 프로잭트 소개
 
@@ -23,3 +23,5 @@
 앱
 
 React-Native 
+
+- 추후 추가하겠습니다.
