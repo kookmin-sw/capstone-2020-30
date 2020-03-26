@@ -1,4 +1,4 @@
-**팀페이지 주소** -> https://kookmin-sw.github.io/capstone-2020-30
+**팀페이지 주소** -> https://kookmin-sw.github.io/capstone-2020-30  
 **임시 앱 웹페이지** -> http://orderyam.com/
 
 ### 1. 프로잭트 소개
