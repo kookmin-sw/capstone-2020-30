@@ -8,7 +8,7 @@
 
 ### 2. 소개 영상
 
-<img src="https://user-images.githubusercontent.com/23310187/34244435-91eab306-e668-11e7-8063-735dff683bf8.png" width="90%"></img>
+<img src="https://github.com/kookmin-sw/capstone-2020-30/blob/master/image/orderyam.PNG" width="90%"></img>
 
 ### 3. 팀 소개
 
