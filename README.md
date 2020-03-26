@@ -15,7 +15,7 @@
 김정식
 
  * 학번 : 20142706
- * email : tmdghks9574@gmail.com
+ * email : ssen199504@gmail.com
  * github : https://github.com/JeongSikKim95
 
 ### 4. 사용법
